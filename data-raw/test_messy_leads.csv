@@ -1,0 +1,11 @@
+ID,Customer Name,Email,City,Phone
+1,  sajelco admin  ,ADMIN@sajelco.com,Manila,0912-345-6789
+2,JOHN DOE, john.doe@gmail.com  ,New York,+1-202-555-0143
+3,123456,invalid-email-format,London,N/A
+4,jane smith,jane.smith@outlook.com,New York,555-0199
+5,robert fox,robert@fox.com,Manila,999-888-777
+6,Robert Fox,robert@fox.com,Manila,999-888-777
+7,  ALICE brown,alice.b@yahoo.com,London,123456
+8,tech support,support@sajelco.com,Dubai,000-000
+9,778899,missing-at-symbol.com,Manila,9999
+10,Michael Scott,m.scott@dundermifflin.com,New York,555-1212
