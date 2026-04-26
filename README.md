@@ -1,6 +1,4 @@
-Your email list cleaner, Emlic, now has a README that matches the professional, clean aesthetic of your Agricultural Dashboard. This design highlights your ability to take a complex technical problem (data cleaning) and turn it into a streamlined utility for users.
-
-📧 Emlic: Virtual Assistant Task Automator
+# 📧 Emlic: Virtual Assistant Task Automator
 An interactive utility designed to normalize, validate, and manage lead generation datasets for Virtual Assistant (VA) workflows.
 
 Access LiveApp: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emlicc.streamlit.app/)
